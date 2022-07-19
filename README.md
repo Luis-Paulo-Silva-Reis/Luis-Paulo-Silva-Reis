@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **seara**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, PHP, Angular.**
+- 🌱 I’m currently learning **JavaScript, TypeScript, PHP, Angular, React, Next.**
 
 - 💬 Ask me about **JS, Angular, Ts, PHP.**
 
