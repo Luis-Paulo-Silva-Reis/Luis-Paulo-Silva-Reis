@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, PHP, Angular, React, Next.**
 
-- 💬 Ask me about **JS, Angular, Ts, PHP.**
+- 💬 Ask me about **JS, React, Ts, node.**
 
 - 📫 How to reach me **lpreis2010@gmail.com**
 
