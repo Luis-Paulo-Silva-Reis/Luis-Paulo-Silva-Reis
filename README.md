@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **TRI do brasil**
+- 🔭 I’m currently working on **Accurate**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Node, React, Next, Nest.**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Node, JAVA, React, Vue, Angular.**
 
-- 💬 Ask me about **JS, React, Ts, node.**
+- 💬 Ask me about ** JS, React **
 
 - 📫 How to reach me **lpreis2010@gmail.com**
 
