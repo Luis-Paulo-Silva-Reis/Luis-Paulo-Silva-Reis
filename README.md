@@ -26,6 +26,8 @@ Todos os sites que já desenvolvi ou ajudei a desenvolver
 
 <a>https://hellosaks.com</a>
 
+<a>https://hellosaksglobal.com</a>
+
 <a>https://www.nivea.com.br</a>
 
 <a>https://seara.com.br</a>
