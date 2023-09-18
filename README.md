@@ -34,6 +34,8 @@ Todos os sites que já desenvolvi ou ajudei a desenvolver
 
 <a>https://www.garminstore.com.br</a>
 
+<a>https://jefersoncosta.dev</a>
+
 <a>https://highconcept.com.br</a>
 
 <a>https://www.claro.com.br</a>
