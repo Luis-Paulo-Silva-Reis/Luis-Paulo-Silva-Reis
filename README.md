@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Accurate**
+- 🔭 I'm currently searching for work
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Node, JAVA, React, Vue, Angular.**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Node, React, Vue, Angular.**
 
 - 💬 Ask me about ** JS, React **
 
