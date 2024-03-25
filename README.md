@@ -20,6 +20,7 @@
 - https://highconcept.com.br
 - https://www.claro.com.br
 - https://www.claro.com.br/privacidade
+- https://facilmedicina.com
 - https://cieerj.fillipeguimaraes.com/inicio/]
 
 - 💬 Ask me about **React, Vue, angular, node, c#, aws, azure**
