@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis paulo silva</h1>
+<h1 align="center">Hi 👋, I'm Luis paulo silva Reis</h1>
 <h3 align="center">A passionate Fullstack developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-paulo-silva-reis&label=Profile%20views&color=0e75b6&style=flat" alt="luis-paulo-silva-reis" /> </p>
@@ -14,10 +14,10 @@
 - 👨‍💻 All of my projects are available [
 - https://hellosaks.com
 - https://www.nivea.com.br
-- https://seara.com.br
 - https://www.garminstore.com.br
 - https://jefersoncosta.dev
 - https://highconcept.com.br
+- https://seara.com.br
 - https://www.claro.com.br
 - https://www.claro.com.br/privacidade
 - https://facilmedicina.com
