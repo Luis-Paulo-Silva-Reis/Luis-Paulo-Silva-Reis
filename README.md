@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking **for work**
 
-- 🌱 I’m currently **learning advanced React and c#**
+- 🌱 I’m currently **learning advanced React/Angular, flutter and c#**
 
 - 👯 I’m looking **to collaborate on fullstack projets.**
 
