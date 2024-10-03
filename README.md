@@ -22,6 +22,7 @@
 - https://www.claro.com.br/privacidade
 - https://facilmedicina.com
 - https://cieerj.fillipeguimaraes.com/inicio/]
+- https://starfusion.com.br/
 
 - 💬 Ask me about **React, Vue, angular, node, c#, aws, azure**
 
