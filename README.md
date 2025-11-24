@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-paulo-silva-reis&label=Profile%20views&color=0e75b6&style=flat" alt="luis-paulo-silva-reis" /> </p>
 
-- 🔭 I’m currently looking **for work**
+- 🔭 I’m currently working at MJV
 
 - 🌱 I’m currently **learning advanced React/Angular, flutter and c#**
 
