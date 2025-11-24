@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at MJV
 
-- 🌱 I’m currently **learning advanced React/Angular, flutter and c#**
+- 🌱 I’m currently **learning advanced Angular typescript and AWS
 
 - 👯 I’m looking **to collaborate on fullstack projets.**
 
