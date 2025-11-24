@@ -23,6 +23,8 @@
 - https://facilmedicina.com
 - https://cieerj.fillipeguimaraes.com/inicio/]
 - https://starfusion.com.br/
+- https://www.accurate.com.br/
+- https://www.mjvinnovation.com/pt-br/
 
 - 💬 Ask me about **React, Vue, angular, node, c#, aws, azure**
 
